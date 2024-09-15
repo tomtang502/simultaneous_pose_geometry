@@ -1,3 +1,5 @@
 weights
 data
 viz_tar
+data/screw_driver/*.pkl
+data/screw_driver*.tar

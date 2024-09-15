@@ -1,0 +1,3 @@
+[submodule "langsam"]
+	path = langsam
+	url = https://github.com/luca-medeiros/lang-segment-anything.git
