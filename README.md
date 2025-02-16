@@ -1,12 +1,10 @@
 # Paper Citation
 ```bash
 @article{zhi2024simultaneous,
-  title = {Simultaneous Estimation of Geometry and Pose of Held Objects via 3D Foundation Models},
   author = {Zhi, Weiming and Tang, Haozhan and Zhang, Tianyi and Johnson-Roberson, Matthew},
   journal = {IEEE Robotics and Automation Letters},
-  note = {Also in Proceedings of ICRA, 2025},
+  title = {Simultaneous Estimation of Geometry and Pose of Held Objects via 3D Foundation Models},
   year = {2024},
-  publisher = {IEEE},
 }
 ```
 
